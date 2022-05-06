@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Nora Xu's personal website 
 
 You can use the [editor on GitHub](https://github.com/NoraXu-0111/Noraxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Hello and thanks for visiting my personal website! I am a sophomore student at Johns Hopkins University majoring in computer science. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
